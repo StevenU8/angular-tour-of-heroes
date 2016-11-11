@@ -17,7 +17,6 @@ import { OnInit } from '@angular/core';
     </ul>
 
     <my-hero-detail [hero]="selectedHero"></my-hero-detail>
-
     `,
     styles: [`
       .selected {
